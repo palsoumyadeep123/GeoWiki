@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoWiki</string>
+    <string-array name="units">
+        <item>Celcius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <integer name="animation_duration">5000</integer>
+</resources>
